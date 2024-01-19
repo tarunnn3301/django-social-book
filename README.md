@@ -14,7 +14,10 @@ Installation
 <img width="1428" alt="Screenshot 2024-01-19 at 6 38 47 PM" src="https://github.com/tarunnn3301/django-social-book/assets/95137162/fc4b88e8-5ae9-47fe-a646-ac5d918fb9d7">
 
 ### User Profile
-<img width="1440" alt="userprofile" src="https://github.com/tarunnn3301/Chat-Time-2.0/assets/95137162/0392f14f-038d-400d-870f-0d76f533a1a2">
+
+<img width="1435" alt="Screenshot 2024-01-19 at 6 37 01 PM" src="https://github.com/tarunnn3301/django-social-book/assets/95137162/ef723978-0bb9-4a34-871c-0d551300ce4b">
+
+
 
 ### Home Page
 <img width="1435" alt="Screenshot 2024-01-19 at 6 36 46 PM" src="https://github.com/tarunnn3301/django-social-book/assets/95137162/c1364816-762c-4d2c-9c0f-8e417c15c3fa">
