@@ -10,7 +10,7 @@ Installation
 # User Interface
 
 ### Authenticaton
-<img width="1440" alt="Screenshot 2024-01-19 at 6 38 47 PM" src="https://github.com/tarunnn3301/django-social-book/assets/95137162/0125a62b-9125-4f4b-9d69-fe7f2727af6c">
+<img width="1440" height="1000" alt="Screenshot 2024-01-19 at 6 38 47 PM" src="https://github.com/tarunnn3301/django-social-book/assets/95137162/0125a62b-9125-4f4b-9d69-fe7f2727af6c">
 <img width="1440" alt="Screenshot 2024-01-19 at 6 38 14 PM" src="https://github.com/tarunnn3301/django-social-book/assets/95137162/0813ea06-aaff-4d87-8686-27a549569d78">
 
 
